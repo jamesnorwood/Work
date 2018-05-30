@@ -1,0 +1,68 @@
+LDFFileVersion 8.1;
+ModelName M6641S;
+InspectionID G640003LF;
+SoftwareVersion 3.5.1.4959;
+DataFolderPath M:\PMON S\38;
+DesignName [140]140_416_5.wfd;
+WorkName AR8 Pre;
+RecipeName AR8 Pre;
+SampleName 140;
+LotID 38628 PRE;
+SampleSize 152;
+SampleType Mask Blanks;
+InspectionArea 19600.5;
+InspectionAreaFigure Rectangle -70.0000 -70.0000 140.0000 140.0000;
+InspectionStartTime 2017-12-13T11:41:07;
+InspectionCompleteTime 2017-12-13T11:48:30;
+InspectionResult Completed;
+CassetteNumber 3;
+SlotNumber 1;
+UnLoadCassetteNumber 3;
+UnLoadSlotNumber 1;
+StripeWidth 416;
+StripeOverlap 5;
+StageSpeed 4;
+SliceLevel 130;
+LowerBandSliceLevel 999;
+DenseScan OFF;
+AutoMerge ON;
+MergeDistanceX 5;
+MergeDistanceY 10;
+LargeDefectMerge ON;
+LargeDefectSize 20;
+LargeMergeDistanceX 50;
+LargeMergeDistanceY 50;
+CalibratePosition 0 0;
+AFPosition 2.02556;
+FocusOffsetVoltage 0;
+LaserPower 0.5;
+SPFPosition 5;
+StandardIntensity 93.9375;
+CalibrationPeakIntensity 88.3021;
+OEGain Mid;
+SI3Inspection OFF;
+LPValueCal 0.50;
+InspectionDataList
+      1  -67.52806  -14.89375    0.000136    0.000085   0   17    1 -1  1  0
+      2  -59.19335   19.26040    0.000679    0.000258 255  255    5 -1  3  0
+      3    9.23247  -67.91677    0.000407    0.000246 255  255    3 -1  2  0
+      4   19.58708   43.81496    0.001357    0.000466 255  255   10 -1  4  0
+      5   32.29387  -16.74076    0.001900    0.000800 255  255   14 -1  5  0
+      6   32.93058   54.87390    0.002443    0.001146 255  255   18 -1  6  0
+      7   35.62911  -24.68650    0.001357    0.000397 255  255   10 -1  4  0
+      8   44.26530  -53.43378    0.003122    0.001471 255  255   23 -1  7  0;
+DefectSizeTable
+1 1
+2 1
+3 1
+4 2
+5 1
+6 1
+7 1
+8 0
+9 0;
+DefectKindTable
+0 0
+1 0;
+UserComment ;
+EOF;
